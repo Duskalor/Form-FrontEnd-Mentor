@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  font-family: Inter;
+  color: CanvasText;
+  background-color: Canvas;
+  color-scheme: dark light;
+}
+
+@font-face {
+  font-family: Inter;
+  src: url('./assets/fonts/Inter.ttf') format(truetype);
+}
