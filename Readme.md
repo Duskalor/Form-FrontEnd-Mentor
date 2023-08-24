@@ -1,6 +1,6 @@
-# Realizando ejercicios Front End Mentor para mejorar en Front
+## Realizando ejercicios Front End Mentor para mejorar en Front
 
-## Todos los ejercicios fueron realizados con Tailwind y ReactJS
+### Todos los ejercicios fueron realizados con Tailwind y ReactJS
 
 1 - [Notificaciones](https://github.com/Duskalor/Form-FrontEnd-Mentor/tree/main/1-notification)
 
