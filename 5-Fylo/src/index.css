@@ -1,0 +1,27 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  background-color: Canvas;
+  color: CanvasText;
+  color-scheme: dark light;
+}
+
+body {
+  font-family: 'Raleway';
+}
+@font-face {
+  font-family: 'Open';
+  src: url('assets/font/OpenSans-Variable.ttf') format('truetype');
+}
+header,
+footer,
+section {
+  font-family: 'Open';
+}
+
+@font-face {
+  font-family: 'Raleway';
+  src: url('assets/font/Raleway-VariableFont_wght.ttf') format('truetype');
+}
