@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Karla:wght@400;700&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  background-color: Canvas;
+  color: CanvasText;
+  color-scheme: dark light;
+  font-family: 'karla';
+}
