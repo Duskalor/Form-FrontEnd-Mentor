@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:opsz,wght@9..40,400;9..40,700&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  background-color: Canvas;
+  color: CanvasText;
+  color-scheme: dark light;
+  font-family: 'DM Sans', system-ui;
+}
+
+@font-face {
+  font-family: 'Sans';
+  src: local('../assets/DMSans-VariableFont_opsz,wght.ttf') format('truetype');
+}
